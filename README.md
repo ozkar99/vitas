@@ -1,4 +1,4 @@
-# README
+# VITAS
 
 vitas is a meme based social network, more details to come.
 
