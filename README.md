@@ -8,7 +8,7 @@ vitas is a meme based social network, more details to come.
 >ISHYGDDT
 ```
 
-![[](https://www.youtube.com/watch?v=IwzUs1IMdyQ)](vitas.jpg "This is where the codename comes from")
+![](vitas.jpg "This is where the codename comes from")
 
 ## Techinical Stuff:
 Standard rails app.  
