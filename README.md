@@ -2,11 +2,13 @@
 
 vitas is a meme based social network, more details to come.
 
+```
 >2018
 >making yet another social network
 >ISHYGDDT
+```
 
-![[](https://www.youtube.com/watch?v=KyX5iM9RFjU)](vitas.jpg "This is where the codename comes from")
+![](vitas.jpg "This is where the codename comes from")
 
 ## Techinical Stuff:
 Standard rails app.
