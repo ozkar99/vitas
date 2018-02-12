@@ -6,6 +6,7 @@ vitas is a meme based social network, more details to come.
 >2018
 >making yet another social network
 >ISHYGDDT
+>jizz mate!
 ```
 
 ![](vitas.jpg "This is where the codename comes from")
